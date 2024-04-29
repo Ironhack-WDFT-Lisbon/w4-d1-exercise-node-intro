@@ -1,0 +1,18 @@
+{
+  "name": "w4-d1-node-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "cows": "^2.1.1",
+    "moment": "^2.30.1",
+    "superheroes": "^3.0.0"
+  }
+}
